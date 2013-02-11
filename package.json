@@ -1,7 +1,7 @@
 {
   "name": "express-ie-cors",
   "description": "express middleware to add cors support to  IE 8-9",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "homepage": "https://github.com/advanced/express-ie-cors/",
   "repository": {
     "type": "git",
